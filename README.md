@@ -17,7 +17,7 @@ Data visualization was done in Microsoft Power BI
  3) Total Wickets
  4) Toss Decision Impact
 
-### Analyss 
+### Analysis 
 
  1) Match Wins by team
  2) Average Runs per Over
