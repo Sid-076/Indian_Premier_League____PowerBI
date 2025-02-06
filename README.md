@@ -6,6 +6,8 @@ Data file is included in this repository.
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
 
+![Dashboard](https://github.com/user-attachments/assets/4455af87-7039-4da9-98ee-04389557656f)
+
 ## QUESTIONS TO BE ANSWERED:
 ### KPIs
 
